@@ -5,3 +5,5 @@ bottom = "¯" * my_age
 bottom = "|¯" + bottom + "¯|"
 print(candles)
 print(bottom)
+print ("change") 
+print ("change")
